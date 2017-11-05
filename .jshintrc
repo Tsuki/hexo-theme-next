@@ -16,7 +16,8 @@
     "$",
     "jQuery",
     "NexT",
-    "CONFIG"
+    "CONFIG",
+    "Pjax"
   ],
   "quotmark": true,
   "trailing": true,

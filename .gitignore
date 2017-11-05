@@ -18,3 +18,7 @@ source/lib/ua-parser-js/*
 
 source/lib/Han/*
 !source/lib/Han/dist/
+
+
+source/lib/pjax/*
+!source/lib/pjax/pjax.js
